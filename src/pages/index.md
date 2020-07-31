@@ -1,50 +1,42 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: 100% Hardwood
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: 100% Hardwood Biochar
+subheading: Biochar
 mainpitch:
-  title: Why Kaldi
+  title: Why Backwoods
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Not all biochar is equal, in that it may come from many agricultural sources. We only use 100% hardwood, heated at optimum conditions, producing premium quality biochar. As a result, our customers have reported about 20% increased production.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
+  Backwoods is the ultimate biochar source for those who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      heading: Soil
+      items: 
+        - Improve porosity  
+        - Increase water retention
+        - Improve microbial properties
+        - Increase aggregation
+        - Decrease acidity 
+
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      heading: Compost
+      items: 
+        - Reduce bulk density
+        - Prevent loss of nutrients
+        - Promote microbial activity 
+        - Reduce ammonia loss
+        - Reduce emissions 
+
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      heading: Environment
+      items: 
+       - Biochar is the byproduct of one of the only energy production systems that puts more carbon back into the earth than emits.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
