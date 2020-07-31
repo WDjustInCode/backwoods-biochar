@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import logo from '../img/logo.svg'
 import instaIcon from '../img/instaIcon.svg'
-import FBIcon from '../img/FBIcon.svg'
+import FBIcon from '../img/FBicon.svg'
 
 const Navbar = class extends React.Component {
   constructor(props) {
