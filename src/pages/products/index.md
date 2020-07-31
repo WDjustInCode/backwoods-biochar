@@ -1,7 +1,7 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: Our Biochar
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 description: >-
@@ -12,32 +12,19 @@ description: >-
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      heading: Soil
+      items: 
+        - Improve porosity - Increase water retention - Improve microbial properties - Increase aggregation - Decrease acidity 
+
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      heading: Compost
+      items: 
+        - Reduce bulk density - Prevent loss of nutrients - Promote microbial activity - Reduce ammonia loss - Reduce emissions 
+
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      heading: Environment
+      items: 
+       - Biochar is the byproduct of one of the only energy production systems that puts more carbon back into the earth than emits.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -71,31 +58,30 @@ testimonials:
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Purchase Options
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We make it easy for you to recieve and store your biochar. Choose one of our
+    preferred purchase options to receive premium biochar at a destination of your choice. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Per cubic yard
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - $12,000 per truckload
+        - 100 units (50 super stacks)
+        - Self storing
+      plan: Bagged Truckload
+      price: '119.99'
+    - description: Per cubic yard
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - $12,650 per truckload
+        - 115 cubic yards
+        - Got your own storage? Save!
+      plan: Loose Truckload
+      price: '109.99'
+    - description: Per cubic yards
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - $299 double stacks
+        - Smaller applications
+        - About 350 lbs.
+      plan: LTL Quantities
+      price: '149.99'
 ---

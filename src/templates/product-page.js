@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
+import { Link ,graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
@@ -25,13 +25,16 @@ export const ProductPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
+        transform: 'rotate(180deg)',
+        backgroundPosition: `center center`,
+        backgroundAttachment: `fixed`
       }}
     >
       <h2
         className="has-text-weight-bold is-size-1"
         style={{
-          boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-          backgroundColor: '#f40',
+          backgroundColor: 'rgb(86, 121, 91)',
+          transform: 'rotate(180deg)',
           color: 'white',
           padding: '1rem',
         }}
@@ -50,15 +53,6 @@ export const ProductPageTemplate = ({
           </div>
           <div className="columns">
             <div className="column is-10 is-offset-1">
-              <Features gridItems={intro.blurbs} />
-              <div className="columns">
-                <div className="column is-7">
-                  <h3 className="has-text-weight-semibold is-size-3">
-                    {main.heading}
-                  </h3>
-                  <p>{main.description}</p>
-                </div>
-              </div>
               <div className="tile is-ancestor">
                 <div className="tile is-vertical">
                   <div className="tile">
@@ -96,6 +90,13 @@ export const ProductPageTemplate = ({
               </h2>
               <p className="is-size-5">{pricing.description}</p>
               <Pricing data={pricing.plans} />
+            </div>
+            <div className="columns">
+              <div className="column is-12 has-text-centered">
+                <Link className="btn" to="/contact">
+                  Contact US
+                </Link>
+              </div>
             </div>
           </div>
         </div>
@@ -181,7 +182,8 @@ export const productPageQuery = graphql`
                 }
               }
             }
-            text
+            heading
+            items
           }
           heading
           description

@@ -6,6 +6,8 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 
+import logo from '../img/logo.svg'
+
 export const IndexPageTemplate = ({
   image,
   title,
@@ -22,7 +24,7 @@ export const IndexPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundPosition: `top left`,
+        backgroundPosition: `center left`,
         backgroundAttachment: `fixed`,
       }}
     >
@@ -39,9 +41,7 @@ export const IndexPageTemplate = ({
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
-            boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+            backgroundColor: 'rgb(86, 121, 91)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -52,9 +52,7 @@ export const IndexPageTemplate = ({
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
-            boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+            backgroundColor: 'rgb(86, 121, 91)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -109,6 +107,13 @@ export const IndexPageTemplate = ({
             </div>
           </div>
         </div>
+      </div>
+      <div className="content has-text-centered pb-5">
+        <img
+          src={logo}
+          alt="Kaldi"
+          style={{ width: '14em', height: '10em' }}
+        />
       </div>
     </section>
   </div>
@@ -182,7 +187,8 @@ export const pageQuery = graphql`
                 }
               }
             }
-            text
+            heading
+            items
           }
           heading
           description
