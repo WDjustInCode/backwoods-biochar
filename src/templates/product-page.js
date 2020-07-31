@@ -25,13 +25,16 @@ export const ProductPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
+        transform: 'rotate(180deg)',
+        backgroundPosition: `center center`,
+        backgroundAttachment: `fixed`
       }}
     >
       <h2
         className="has-text-weight-bold is-size-1"
         style={{
-          boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-          backgroundColor: '#f40',
+          backgroundColor: 'rgb(86, 121, 91)',
+          transform: 'rotate(180deg)',
           color: 'white',
           padding: '1rem',
         }}
@@ -181,7 +184,8 @@ export const productPageQuery = graphql`
                 }
               }
             }
-            text
+            heading
+            items
           }
           heading
           description

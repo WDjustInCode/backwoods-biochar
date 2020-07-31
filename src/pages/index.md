@@ -18,20 +18,12 @@ intro:
     - image: /img/coffee.png
       heading: Soil
       items: 
-        - Improve porosity  
-        - Increase water retention
-        - Improve microbial properties
-        - Increase aggregation
-        - Decrease acidity 
+        - Improve porosity - Increase water retention - Improve microbial properties - Increase aggregation - Decrease acidity 
 
     - image: /img/coffee-gear.png
       heading: Compost
       items: 
-        - Reduce bulk density
-        - Prevent loss of nutrients
-        - Promote microbial activity 
-        - Reduce ammonia loss
-        - Reduce emissions 
+        - Reduce bulk density - Prevent loss of nutrients - Promote microbial activity - Reduce ammonia loss - Reduce emissions 
 
     - image: /img/tutorials.png
       heading: Environment

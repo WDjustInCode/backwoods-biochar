@@ -9,10 +9,10 @@ const Pricing = ({ data }) => (
           <h4 className="has-text-centered has-text-weight-semibold">
             {price.plan}
           </h4>
-          <h2 className="is-size-1 has-text-weight-bold has-text-primary has-text-centered">
+          <h2 className="is-size-1 has-text-weight-bold has-text-centered mb-1 mt-5" style={{color: '#56795B'}}>
             ${price.price}
           </h2>
-          <p className="has-text-weight-semibold">{price.description}</p>
+          <p className="has-text-weight-semibold has-text-centered mb-5">{price.description}</p>
           <ul>
             {price.items.map((item) => (
               <li key={item} className="is-size-5">

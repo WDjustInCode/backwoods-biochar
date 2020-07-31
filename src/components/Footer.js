@@ -1,110 +1,67 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import logo from '../img/logo.svg'
-import facebook from '../img/social/facebook.svg'
-import instagram from '../img/social/instagram.svg'
-import twitter from '../img/social/twitter.svg'
-import vimeo from '../img/social/vimeo.svg'
+// import icons
+import { IconContext } from "react-icons";
+import { FaFacebook, FaEnvelope } from "react-icons/fa/";
+import { FaInstagram } from "react-icons/fa/";
+import { FaPhone } from "react-icons/fa/";
 
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="footer has-background-black has-text-white-ter">
-        <div className="content has-text-centered">
-          <img
-            src={logo}
-            alt="Kaldi"
-            style={{ width: '14em', height: '10em' }}
-          />
-        </div>
-        <div className="content has-text-centered has-background-black has-text-white-ter">
-          <div className="container has-background-black has-text-white-ter">
-            <div style={{ maxWidth: '100vw' }} className="columns">
-              <div className="column is-4">
-                <section className="menu">
-                  <ul className="menu-list">
-                    <li>
-                      <Link to="/" className="navbar-item">
-                        Home
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/about">
-                        About
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/products">
-                        Products
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
-                      </Link>
-                    </li>
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Admin
-                      </a>
-                    </li>
-                  </ul>
-                </section>
+      <footer id="footer" className="footer has-text-white-ter pt-0 full-width-image-container margin-top-0" style={{width: '100%', backgroundImage: `url('/img/home-jumbotron.jpg')`,
+      backgroundPosition: `bottom center`,
+      backgroundAttachment: `fixed`, marginBottom: 0}}>
+        <div className="columns has-text-white-ter" style={{margin: 0}}>
+          <div className="column is-4 has-text-centered">
+            <div className="columns is-mobile is-multiline is-centered" style={{height: '100%'}}>
+              <div className="column is-7 py-3">
+                <p className="is-size-4" style={{backgroundColor: 'rgb(86, 121, 91)'}}>Contact Us:</p>
               </div>
-              <div className="column is-4">
-                <section>
-                  <ul className="menu-list">
-                    <li>
-                      <Link className="navbar-item" to="/blog">
-                        Latest Stories
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact">
-                        Contact
-                      </Link>
-                    </li>
-                  </ul>
-                </section>
-              </div>
-              <div className="column is-4 social">
-                <a title="facebook" href="https://facebook.com">
-                  <img
-                    src={facebook}
-                    alt="Facebook"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
-                <a title="twitter" href="https://twitter.com">
-                  <img
-                    className="fas fa-lg"
-                    src={twitter}
-                    alt="Twitter"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
-                <a title="instagram" href="https://instagram.com">
-                  <img
-                    src={instagram}
-                    alt="Instagram"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
-                <a title="vimeo" href="https://vimeo.com">
-                  <img
-                    src={vimeo}
-                    alt="Vimeo"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
-              </div>
+              <section className="column is-full py-3" >
+                <IconContext.Provider value={{ color: "white", size: 35, className: "" }}>
+                  <div className="">
+                      <a href="tel:+1360-241-2244" className="px-4"><span><FaPhone /></span></a>
+                      <a href="mailto:joshua@backwoodsbiochar.com" className="px-4"><span><FaEnvelope /></span></a>
+                      <a href="https://www.facebook.com/Backwoods-Biochar-104956791259951" className="px-4"><span><FaFacebook /></span></a>
+                      <a href="https://www.instagram.com/backwoods_biochar_llc/" className="px-4"><span><FaInstagram /></span></a>
+                  </div>
+                </IconContext.Provider>
+              </section>
             </div>
+          </div>
+          <div className="column is-4" style={{padding: 0}}>
+            <section className="menu">
+              <ul className="menu-list has-text-centered ml-0 mt-0">
+                <li>
+                  <Link to="/" className="navbar-item">
+                    Home
+                  </Link>
+                </li>
+                <li>
+                  <Link className="footerMenu navbar-item" to="/products">
+                    Products
+                  </Link>
+                </li>
+              </ul>
+            </section>
+          </div>
+          <div className="column is-4 py-0">
+            <section>
+              <ul className="menu-list has-text-centered ml-0 mt-0">
+                <li>
+                  <Link className="navbar-item" to="/blog">
+                    Latest Stories
+                  </Link>
+                </li>
+                <li>
+                  <Link className="navbar-item" to="/about">
+                    About
+                  </Link>
+                </li>
+              </ul>
+            </section>
           </div>
         </div>
       </footer>
