@@ -2,7 +2,6 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link ,graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
@@ -12,7 +11,6 @@ export const ProductPageTemplate = ({
   title,
   heading,
   description,
-  intro,
   main,
   testimonials,
   fullImage,
@@ -26,7 +24,7 @@ export const ProductPageTemplate = ({
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
         transform: 'rotate(180deg)',
-        backgroundPosition: `center center`,
+        backgroundPosition: `bottom center`,
         backgroundAttachment: `fixed`
       }}
     >
@@ -51,7 +49,7 @@ export const ProductPageTemplate = ({
               <p>{description}</p>
             </div>
           </div>
-          <div className="columns">
+          <div className="columns is-multiline">
             <div className="column is-10 is-offset-1">
               <div className="tile is-ancestor">
                 <div className="tile is-vertical">
@@ -83,6 +81,7 @@ export const ProductPageTemplate = ({
                       ? fullImage.childImageSharp.fluid.src
                       : fullImage
                   })`,
+                  backgroundPosition: `58% 60%`,
                 }}
               />
               <h2 className="has-text-weight-semibold is-size-2">
@@ -91,12 +90,10 @@ export const ProductPageTemplate = ({
               <p className="is-size-5">{pricing.description}</p>
               <Pricing data={pricing.plans} />
             </div>
-            <div className="columns">
-              <div className="column is-12 has-text-centered">
-                <Link className="btn" to="/contact">
-                  Contact US
-                </Link>
-              </div>
+            <div className="column is-12 has-text-centered">
+              <Link className="btn" to="/contact">
+                Contact US
+              </Link>
             </div>
           </div>
         </div>
