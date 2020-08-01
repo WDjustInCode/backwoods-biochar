@@ -12,6 +12,7 @@ const Footer = class extends React.Component {
     return (
       <footer id="footer" className="footer has-text-white-ter margin-top-0" style={{width: '100%', backgroundImage: `url('/img/home-jumbotron.jpg')`,
       backgroundPosition: `bottom center`,
+      backgroundSize: 'cover',
       backgroundAttachment: `fixed`, marginBottom: 0, paddingTop: 25}}
       >
         <div className="columns has-text-white-ter" style={{marginBottom: 0, paddingBottom: 25}}>
