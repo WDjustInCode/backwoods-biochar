@@ -1,34 +1,49 @@
 ---
 templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
-featuredpost: true
+title: 'The Potential for Biochar to Deliver Greater Sustainability for Coffee Cultivation and Processing'
+author: Kathleen Draper
+date: 2018-10-01T15:04:10.000Z
+featuredpost: false
+featuredimage: /img/chemex.png
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  As the security of the coffee supply is threatened by climate change and other environmentally induced pressures such as mudslides and erosion, a focus on sustainable coffee production is gaining increased attention in many areas of the world. At the same time that coffee production is under pressure from climate change impacts, coffee cultivation and processing leads to greenhouse gas (GHG) emissions, contributing to climate change.
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - coffee
+  - IBI
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+[![IBI logo](/img/chemex.png "International Biochar Initiative")](https://biochar-international.org/)
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+The following information is a synopsis of an updated white paper written in collaboration by the Ithaka Institute and IBI authored by Kathleen Draper, entitled The Potentialfor Biochar to Improve Sustainability for Coffee Cultivation and Processing.
 
-## A little history
+[Link to full report](https://biochar-international.org/crop_report_coffee/)
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+## Executive Summary
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+As the security of the coffee supply is threatened by climate change and other environmentally induced pressures such as mudslides and erosion, a focus on sustainable coffee production is gaining increased attention in many areas of the world. At the same time that coffee production is under pressure from climate change impacts, coffee cultivation and processing leads to greenhouse gas (GHG) emissions, contributing to climate change. With more and more consumers shifting their buying habits to support products with lower climate and ecosystem impacts, coffee supply chain participants increasingly seek ways to reduce their carbon footprint and improve the sustainability of their overall growing and processing practices.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+Biochar is a solid material obtained from the thermochemical conversion of biomass in an oxygen-limited environment. Biochar can be used as a product itself or as an ingredient within a blended product, to improve soil properties and/or resource use efficiency, to remediate and/or protect against environmental pollution, and as an avenue for GHG mitigation (IBI, 2013).
 
-## What you need to know before trying
+This paper reviews some ways that biochar is being incorporated into coffee production and coffee processing systems to improve overall economic and environmental impacts, with a focus on processes typically performed at or near the site of coffee cultivation. It includes certain findings related to potential benefits of adding biochar to soils including improved soil fertility, disease management and composting; outlines how the use of biochar can reduce negative impacts related to waste water from coffee processing; highlights opportunities for optimizing the use of coffee residues as potential feedstocks for biochar; and suggests pathways the coffee industry can use to decarbonize its supply chain including the use of renewable energy.
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+The methodology used in this paper combines a review of the peer-reviewed literature with a survey of selected coffee and biochar demonstration projects in various coffee growing regions around the world. Several project teams were interviewed on different continents and project descriptions are included which outline preliminary results and other details from field trials using biochar in coffee production.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+Although an increasing number of coffee growers have demonstrated promising results from the use of biochar, knowledge about the benefits of carbonizing coffee residues and using biochar in coffee cultivation is still low. While more coffee and biochar projects are underway, peer-reviewed scientific publications on this topic are few, and many studies focus on coffee residue management and not biochar impact on yield. Recommendations for future research are highlighted in the Next Steps section. Progress has been made on a few recommendations from the previous white paper; 1) a methodology for biochar trials on coffee plantations has been drafted and 2) progress has been made on characterizing different types of carbonized coffee residues. However, a few recommendations; 1) creating standardized Cost/Benefit Analysis (CBA) approaches to better quantify the benefits of biochar use in coffee production and processing; and 2) increased coordination between existing coffee and biochar projects to share information and identify lessons learned and best practices; have not seen much progress due to a lack of funding for these activities.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+New recommendations for future activities include increased education, more comprehensive coffee and biochar demonstration projects including on-farm biochar production, agronomic evaluation, quantification of economic and social impacts, optimization of biochar and coffee residue composting and quantification of carbon drawdown potential for coffee growers and processors have been added. If these demonstration projects used a similar method for trial design, best practices could be more easily identified and shared.
+
+The authors thank the following for their support in the creation of this paper: Benjamin Evar, Hans Fässler, Peter Kettler, Tom Miles, Martin Schmid, Hans-Peter Schmidt, and the Scientific Panel of the B4SS project.
+
+## The Coffee Growing Challenge
+
+Global agricultural operations are increasingly impacted by erratic weather patterns attributed to climate change. Coffee, one of the most highly traded agricultural commodities in the world, is already being negatively impacted by increasing climate variability with far-reaching effects on soil water contents, disease pressure and nutrient losses, potentially leading to increased fluctuations in yield and price.
+
+Coffee production for 2016/2017 is estimated at 157.4 million bags (each containing 60 kg of coffee beans), up from 145.1 million bags in 2012/2013 (International Coffee Organization) with more than half sourced from the top two producing countries: Brazil and Vietnam. It is grown in over 70 countries and provides a livelihood for more than 25 million coffee producers, 80 percent of whom are smallholder farmers (Fairtrade, 2018).
+
+Many smallholder coffee growers have limited access to improved farming techniques and adaptation technologies, rendering their livelihoods at risk due to predicted worsening of negative climate effects which expose both the coffee farmer and the companies they supply to high levels of risk. A decrease in yield for these farmers can be catastrophic, potentially causing them to abandon farming altogether and forcing coffee laborers to seek work outside the coffee sector (Edgerton et al., 2013). In some areas, more extreme weather events cause topsoil loss through erosion, while in other areas increasing droughts reduce yield. Imbach et al. (2017) predict that the combination of climate change and pollinator decline could reduce land suitable for coffee growing by 73 – 88% globally by 2050. Many coffee growing regions have seen significant yield losses in recent years due to coffee leaf rust (Hemileia vastatrix), often called roya, a parasitic fungus which lowers yield and can eventually kill coffee plants. Central America alone suffered damages of close to USD 500 million (approximately 2.7 million bags of lost production) from coffee rust in 2012 –2013 (International Coffee Organization Annual Report, 2013). Other pests, diseases and fungi are becoming more prevalent in some regions particularly areas with fewer cold snaps that formerly helped to reduce incidence of pests.
+
+Although there are increasing efforts to move towards sustainable production methods, coffee, like many crops, can have a substantial carbon footprint due to input requirements of fertilizer, energy, and water from cultivation to cup. In some coffee cultivation regions, there is a growing use of pesticides to control the coffee berry borer (Hypothenemus hamperi) and coffee leaf rust. At the same time many growers have increased the use of fertilizers (United Nations, 2004) to boost yields in nutrient-poor soils, which can have negative environmental and human health impacts if used in excess and contrary to recommendations. In addition, the untreated release or burning of coffee residues can cause air and water pollution and is a source of GHG emissions (Coltro et al., 2006). Some coffee producing regions use few to no chemical fertilizers for crop growth or pesticides but could take advantage of biochar to increase crop yield and soil health and reduce GHG emissions.
+
+More consumers are seeking sustainably produced agricultural products. To meet this demand, a wide range of certification programs have arisen that require implementation of best management practices in social and environmental realms for coffee cultivation. Certification programs may be run by independent third parties (e.g. Bird Friendly, Rainforest Alliance, Organic, Max Havelaar, Fair Trade, UTZ Certified, 4C, etc.) or individual coffee companies (e.g. Starbucks and Nespresso).  Several of these programs require farmers to pay for certification, auditing, and investments in new technologies to meet various standards, and these costs may not necessarily be entirely offset by increased revenues. However, many of the environmental and social benefits from the programs are seen as beneficial by not only consumers but also coffee farmers and communities. Increased premiums or buyer retention for certified coffee can give growers an incentive for investing in the coffee farming communities (Taylor, 2007). Those certification programs that also promote or result in positive impacts on yield may be more attractive to growers (Barham et al., 2011).
+
+[Link to full report](https://biochar-international.org/wp-content/uploads/2018/10/Coffee_FINAL_Oct-2018.pdf)

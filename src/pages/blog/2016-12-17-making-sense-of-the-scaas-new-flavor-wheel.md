@@ -1,33 +1,45 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: IBI - Soil Health
+author: International Biochar Initiative
+date: 2020-07-01T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/chemex.png
+description: Biochar enhances soils. By converting agricultural waste into a powerful soil
+  enhancer that holds carbon and makes soils more fertile, we can boost food
+  security, discourage deforestation and preserve cropland diversity. Research is now confirming benefits that include...
 tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+[![IBI logo](/img/chemex.png "International Biochar Initiative")](https://biochar-international.org/)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+[Original article](https://biochar-international.org/soil-health/)
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Biochar enhances soils. By converting agricultural waste into a powerful soil
+enhancer that holds carbon and makes soils more fertile, we can boost food
+security, discourage deforestation and preserve cropland diversity. Research is now confirming benefits that include:
 
-## What the updates mean to you
+* Reduced leaching of nitrogen into ground water
+* Possible reduced emissions of nitrous oxide
+* Increased cation-exchange capacity resulting in improved soil fertility
+* Moderating of soil acidity
+* Increased water retention
+* Increased number of beneficial soil microbes
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Biochar can improve almost any soil. Areas with low rainfall or nutrient-poor soils will most likely see the largest impact from addition of biochar.
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+IBI has created two sets of guidelines regarding biochar and soils:
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+[GUIDELINES FOR SETTING UP FIELD TRIALS](https://biochar-international.org/soil-health/)
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+[GUIDELINES FOR BIOCHAR APPLICATION TO SOILS](https://biochar-international.org/soil-health/)
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Biochar and Terra Preta Soils
+Biochar production is modeled after a process begun thousands of years ago in the Amazon Basin, where islands of rich, fertile soils called terra preta (“dark earth”) were created by indigenous people. Anthropologists speculate that cooking fires and kitchen middens along with deliberate placing of charcoal in soil resulted in soils with high fertility and carbon content, often containing shards of broken
+pottery. These soils continue to “hold” carbon today and remain so nutrient rich that they have been dug up and sold as potting soil in Brazilian markets
+
+Rural and Developing Country Applications of Biochar Systems
+Biochar systems can reverse soil degradation and create sustainable food and fuel production in areas with severely depleted soils, scarce organic resources, and inadequate water and chemical fertilizer supplies. By making croplands more fertile for longer periods of time, biochar discourages deforestation. Low-cost, small-scale biochar production units can produce biochar to build garden, agricultural and forest productivity, and provide thermal energy for cooking and drying grain. With the addition of an engine or turbine, these systems can produce kinetic energy for grinding grain or making electricity. Click here for more information specific to biochar projects in developing and emerging economies.
+
+[Original article](https://biochar-international.org/soil-health/)

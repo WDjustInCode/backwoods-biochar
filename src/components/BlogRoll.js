@@ -18,9 +18,9 @@ class BlogRoll extends React.Component {
                   post.frontmatter.featuredpost ? 'is-featured' : ''
                 }`}
               >
-                <header>
+                <header className="columns is-multiline is-mobile is-centered">
                   {post.frontmatter.featuredimage ? (
-                    <div className="featured-thumbnail">
+                    <div className="column is-full featured-thumbnail">
                       <PreviewCompatibleImage
                         imageInfo={{
                           image: post.frontmatter.featuredimage,
@@ -29,10 +29,11 @@ class BlogRoll extends React.Component {
                       />
                     </div>
                   ) : null}
-                  <p className="post-meta">
+                  <p className="column is-full post-meta">
                     <Link
-                      className="title has-text-primary is-size-4"
+                      className="title is-size-4"
                       to={post.fields.slug}
+                      style={{color: 'rgb(86, 121, 91)'}}
                     >
                       {post.frontmatter.title}
                     </Link>
@@ -43,7 +44,7 @@ class BlogRoll extends React.Component {
                   </p>
                 </header>
                 <p>
-                  {post.excerpt}
+                  {post.frontmatter.description}
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
@@ -83,12 +84,13 @@ export default () => (
               }
               frontmatter {
                 title
+                description
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 120, quality: 100) {
+                    fluid(maxWidth: 600, quality: 100) {
                       ...GatsbyImageSharpFluid
                     }
                   }
