@@ -1,29 +1,55 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+title: IBI news letter article - The Big Picture
+author: Robert Gillett
+date: 2020-07-01T15:04:10.000Z
+featuredpost: true
+featuredimage: /img/chemex.png
+description: In the Holocene, pyrogenic carbon left on the landscape was often beneficial to an ecosystem. In
+  the Anthropocene, however, elevated atmospheric CO2 from too much burning is putting our existence in
+  jeopardy. The imbalance occurred when we stopped merely burning extant biomass and started burning
+  carbon from earlier geological ages as well.
 tags:
-  - brewing
-  - chemex
+  - why
+  - IBI
 ---
-![chemex](/img/chemex.jpg)
+![](/img/chemex.png)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+In the Holocene, pyrogenic carbon left on the landscape was often beneficial to an ecosystem. In
+the Anthropocene, however, elevated atmospheric CO2 from too much burning is putting our existence in
+jeopardy. The imbalance occurred when we stopped merely burning extant biomass and started burning
+carbon from earlier geological ages as well. Now driven by necessity to end our dependence on fossil
+fuels, we are fortunate that science and technology have enabled us to also use biomass in natureenhancing, 
+climate-positive ways. Through pyrolysis, for example, we preserve remnants of once-living
+matter, honoring its life and allowing it to help preserve our own.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+To acknowledge the life that once burned within these remnants, we prefix the name we give it
+with “bio” (from βίος, the ancient Greek word for “life”). Biochar is a generic term given to carbonized
+organic material. Depending on its characteristics (which can be diverse depending on its source), biochar
+lends itself to virtually any form of agriculture, as well as innumerable other disciplines. Agricultural
+methods that might incorporate biochar include grazing, agroforestry, alley cropping, silviculture, organic
+farming, conservation agriculture, regenerative agriculture, aquaculture, hydroponics, horticulture, forest
+gardening, and even row cropping. 
 
-## The little secrets of Chemex brewing
+Burn by Albert Bates and Kathleen Draper offers dozens of other applications for biochar and IBI
+members who receive our monthly compilation of research highlights see new possibilities conceived
+every month. With potential applications innumerable as what we can imagine, should we be surprised
+that biochar is even being evaluated as a covid-19 capture and kill coating for fabrics? Stand-by for more
+developments on this.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+IBI promotes biochar not because it can do everything better, but because it can do so many
+things well. At this stage, we can put aside debates of quality vs. quantity because enormous biochar
+quantities of various grades are needed in the emerging new carbon economy. The most prodigious use is
+expected to be in construction applications using industrial grade char. 
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+The other main reason we promote biochar is because long-term carbon sequestration starts the
+moment biochar is made. Whether it is then used to make cosmetics, livestock feed, or flash graphene is
+not critical in solving the climate crisis. To draw down atmospheric carbon, we need to exponentially
+increase the quantity of biochar produced. 
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+The theory of diffusion of innovation posits that at around a 16% market penetration level, a
+tipping point occurs triggering a landslide of new customers. While we want to see biomass put to its
+highest available use, IBI looks forward to the day when global biochar demand, from whatever sector of
+the green economy, crosses this threshold. 
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+
