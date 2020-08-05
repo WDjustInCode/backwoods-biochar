@@ -3,7 +3,7 @@ templateKey: 'blog-post'
 title: 'The Potential for Biochar to Deliver Greater Sustainability for Coffee Cultivation and Processing'
 author: Kathleen Draper
 date: 2018-10-01T15:04:10.000Z
-featuredpost: false
+featuredpost: true
 featuredimage: /img/chemex.png
 description: >-
   As the security of the coffee supply is threatened by climate change and other environmentally induced pressures such as mudslides and erosion, a focus on sustainable coffee production is gaining increased attention in many areas of the world. At the same time that coffee production is under pressure from climate change impacts, coffee cultivation and processing leads to greenhouse gas (GHG) emissions, contributing to climate change.
