@@ -3,7 +3,7 @@ templateKey: blog-post
 title: IBI news letter article - The Big Picture
 author: Robert Gillett
 date: 2020-07-01T15:04:10.000Z
-featuredpost: true
+featuredpost: false
 featuredimage: /img/chemex.png
 description: In the Holocene, pyrogenic carbon left on the landscape was often beneficial to an ecosystem. In
   the Anthropocene, however, elevated atmospheric CO2 from too much burning is putting our existence in

@@ -24,7 +24,7 @@ export const ProductPageTemplate = ({
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
         transform: 'rotate(180deg)',
-        backgroundPosition: `bottom center`,
+        backgroundPosition: `center center`,
         backgroundAttachment: `fixed`
       }}
     >
