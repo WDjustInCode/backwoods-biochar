@@ -25,7 +25,6 @@ export const ProductPageTemplate = ({
         })`,
         transform: 'rotate(180deg)',
         backgroundPosition: `center center`,
-        backgroundAttachment: `fixed`
       }}
     >
       <h2
