@@ -70,13 +70,6 @@ pricing:
         - Self storing
       plan: Bagged Truckload
       price: '119.99'
-    - description: Per cubic yard
-      items:
-        - $12,650 per truckload
-        - 115 cubic yards
-        - Got your own storage? Save!
-      plan: Loose Truckload
-      price: '109.99'
     - description: Per cubic yards
       items:
         - $299 double stacks
