@@ -63,18 +63,25 @@ pricing:
     We make it easy for you to recieve and store your biochar. Choose one of our
     preferred purchase options to receive premium biochar at a destination of your choice. Contact us about more details and payment info.
   plans:
-    - description: Per cubic yard
-      items:
-        - $12,000 per truckload
-        - 100 units (50 super stacks)
-        - Self storing
-      plan: Bagged Truckload
-      price: '119.99'
     - description: Per cubic yards
       items:
-        - $299 double stacks
-        - Smaller applications
-        - About 350 lbs.
-      plan: LTL Quantities
-      price: '149.99'
+        - 1 cubic yard
+        - Self Storing
+        - About 350 lbs
+      plan: Super Sack
+      price: '320.99'
+    - description: Per cubic yards
+      items:
+        - $599.99 double stack
+        - 2 cubic yards
+        - Save > 5%
+      plan: Super Sack Stack
+      price: '299.99'
+    - description: Per cubic yard
+      items:
+        - $14,999.99
+        - 52 cubic yards 
+        - Save > 10%
+      plan: Bagged Truckload
+      price: '288.99'
 ---
