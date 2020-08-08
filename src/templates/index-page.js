@@ -29,14 +29,6 @@ export const IndexPageTemplate = ({
     >
       <div
         className="has-text-centered"
-        style={{
-          display: 'flex',
-          height: '150px',
-          lineHeight: '1',
-          justifyContent: 'space-around',
-          alignItems: 'left',
-          flexDirection: 'column',
-        }}
       >
         <h1
           className="title has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
@@ -45,7 +37,6 @@ export const IndexPageTemplate = ({
             lineHeight: '1',
             padding: '0.25em',
             color: 'white',
-            margin: 0
           }}
         >
             {title}
