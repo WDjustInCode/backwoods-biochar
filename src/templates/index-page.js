@@ -71,25 +71,14 @@ export const IndexPageTemplate = ({
                 <div className="content">
                   <div className="tile">
                     <h1 
-                      className="title"
+                      className="title is-size-2"
                       style={{color: 'rgb(86, 121, 91)'}}
                     >
                       {mainpitch.title}
                     </h1>
                   </div>
                   <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
-                </div>
-                <div className="columns">
-                  <div className="column is-12">
-                    <h3 
-                      className="has-text-weight-semibold is-size-2"
-                      style={{color: 'rgb(86, 121, 91)'}}
-                    >
-                      {heading}
-                    </h3>
-                    <p>{description}</p>
+                    <h4 className="column subtitle is-four-fiths">{mainpitch.description}</h4>
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
