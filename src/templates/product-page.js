@@ -27,24 +27,24 @@ export const ProductPageTemplate = ({
         backgroundPosition: `center center`,
       }}
     >
-      <h2
+      <h1
         className="has-text-weight-bold is-size-1"
         style={{
-          backgroundColor: 'rgb(86, 121, 91)',
+          backgroundColor: '',
           transform: 'rotate(180deg)',
           color: 'white',
           padding: '1rem',
         }}
       >
         {title}
-      </h2>
+      </h1>
     </div>
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
           <div className="columns">
             <div className="column is-7 is-offset-1">
-              <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
+              <h3 className="has-text-weight-semibold is-size-2" style={{color: 'rgb(86, 121, 91)'}}>{heading}</h3>
               <p>{description}</p>
             </div>
           </div>
@@ -83,7 +83,7 @@ export const ProductPageTemplate = ({
                   backgroundPosition: `58% 60%`,
                 }}
               />
-              <h2 className="has-text-weight-semibold is-size-2">
+              <h2 className="has-text-weight-semibold is-size-2" style={{color: 'rgb(86, 121, 91)'}}>
                 {pricing.heading}
               </h2>
               <p className="is-size-5">{pricing.description}</p>
