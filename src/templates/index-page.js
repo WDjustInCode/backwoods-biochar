@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
+import Img from "gatsby-image"
 
 import Layout from '../components/Layout'
 import Features from '../components/Features'
@@ -18,40 +19,12 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div>
-    <div
-      className="full-width-image margin-top-0"
-      style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-        backgroundPosition: `center left`,
-      }}
-    >
-      <div
-        className="has-text-centered"
-      >
-        <h1
-          className="title has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
-          style={{
-            backgroundColor: '',
-            lineHeight: '1',
-            padding: '0.25em',
-            color: 'white',
-          }}
-        >
-            {title}
-        </h1>
-        <h2
-          className="subtitle has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
-          style={{
-            backgroundColor: 'rgba(255, 255, 255, 0.8)',
-            color: 'rgba(0, 0, 0, .8)',
-            padding: '0.25em',
-          }}
-        >
-          {subheading}
-        </h2>
+    <div className="columns is-desktop">
+      <div className="column"/>
+      <div className="column is-three-quarters-desktop">
+        <Img fluid={image}/>
       </div>
+      <div className="column"/>
     </div>
     <section className="section section--gradient">
       <div className="container">
@@ -125,7 +98,7 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <IndexPageTemplate
-        image={frontmatter.image}
+        image={frontmatter.image.childImageSharp.fluid}
         title={frontmatter.title}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
@@ -154,7 +127,7 @@ export const pageQuery = graphql`
         title
         image {
           childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
+            fluid(maxWidth: 1215, quality: 100) {
               ...GatsbyImageSharpFluid
             }
           }

@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: 100% Hardwood
-image: /img/home-jumbotron.jpg
+image: /img/home-jumbotron.png
 heading: 100% Hardwood Biochar
 subheading: Biochar
 mainpitch:
