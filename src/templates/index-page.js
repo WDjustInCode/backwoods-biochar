@@ -26,7 +26,7 @@ export const IndexPageTemplate = ({
       </div>
       <div className="column"/>
     </div>
-    <section className="section section--gradient">
+    <section className="section section--gradient" style={{paddingBottom: 0}}>
       <div className="container">
         <div className="section">
           <div className="columns">
@@ -69,7 +69,7 @@ export const IndexPageTemplate = ({
           </div>
         </div>
       </div>
-      <div className="content has-text-centered pb-5">
+      <div className="content has-text-centered">
         <img
           src={logo}
           alt="Kaldi"

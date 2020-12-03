@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import instaIcon from '../img/instaIcon.svg'
 import FBIcon from '../img/FBicon.svg'
+import logo from '../img/logo.png'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -40,7 +41,11 @@ const Navbar = class extends React.Component {
         aria-label="main-navigation"
       >
         <div className="container">
+
           <div className="navbar-brand">
+            <a class="navbar-item" href="/">
+              <img src={logo}/>
+            </a>
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
