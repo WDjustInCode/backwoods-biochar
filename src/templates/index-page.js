@@ -7,7 +7,7 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 
-import logo from '../img/logo.svg'
+import logo from '../img/logo.png'
 
 export const IndexPageTemplate = ({
   image,
@@ -73,7 +73,7 @@ export const IndexPageTemplate = ({
         <img
           src={logo}
           alt="Kaldi"
-          style={{ width: '14em', height: '10em' }}
+          style={{ width: '19em', height: '15em' }}
         />
       </div>
     </section>
